@@ -1,4 +1,0 @@
-apps:
-  fastapi-web:
-    type: web
-    run: gunicorn
