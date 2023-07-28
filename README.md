@@ -4,7 +4,7 @@
 
 Unlike other PaaS options, Porter deploys your applications to your own AWS account. Before deploying a FastAPI application you must set up your infrastructure on AWS first.
 
-First, create an account on [Porter](https://dashboard.getporter.dev). Follow [this guide](/standard/getting-started/provisioning-on-aws) to create the necessary infrastructure on AWS.
+First, create an account on [Porter](https://dashboard.getporter.dev). Follow [this guide](https://docs.porter.run/standard/getting-started/deploy-overview) to create the necessary infrastructure on AWS.
 
 ## Deploying from the dashboard
 Once your infrastructure has been provisioned on AWS, you can start deploying your FastAPI application. Take a look here for a more [detailed guide](https://docs.porter.run/standard/getting-started/deploy-overview).
