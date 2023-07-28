@@ -1,0 +1,3 @@
+apps:
+  fastapi:
+    type: web
