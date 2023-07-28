@@ -1,5 +1,7 @@
 # How to Deploy
 
+For a complete guide, check out our [docs](https://docs.porter.run/language-specific-guides/fastapi).
+
 ## Create an account on Porter
 
 Unlike other PaaS options, Porter deploys your applications to your own AWS account. Before deploying a FastAPI application you must set up your infrastructure on AWS first.
